@@ -1,10 +1,13 @@
 Setup
-Add private key to main.ts 
+
+1, Add private key to main.ts, line 70
+
+2, install package
 ```typescript
 npm i 
 ```
 
-Run Script
+3, Run Script
 ```typescript
 npx ts-node main.ts
 ```
